@@ -7,25 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84365602206EA05500019AE7 /* Image+LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84365601206EA05400019AE7 /* Image+LabelViewController.m */; };
+		844FB63A2070F0EB00C6346E /* MyCalculationHeightCellViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 844FB6392070F0EB00C6346E /* MyCalculationHeightCellViewController.m */; };
+		84631D4B206D830400E6107A /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84631D4A206D830400E6107A /* TableViewCell.m */; };
+		84631D4E206D86AB00E6107A /* LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84631D4D206D86AB00E6107A /* LabelViewController.m */; };
 		84FBBFCB206C083100CF416C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FBBFCA206C083100CF416C /* AppDelegate.m */; };
-		84FBBFCE206C083100CF416C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FBBFCD206C083100CF416C /* ViewController.m */; };
 		84FBBFD1206C083100CF416C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FBBFCF206C083100CF416C /* Main.storyboard */; };
 		84FBBFD3206C083100CF416C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FBBFD2206C083100CF416C /* Assets.xcassets */; };
 		84FBBFD6206C083100CF416C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FBBFD4206C083100CF416C /* LaunchScreen.storyboard */; };
 		84FBBFD9206C083100CF416C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FBBFD8206C083100CF416C /* main.m */; };
+		EFB795D3D4541A82247CADA1 /* libPods-Chat quickblox.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC4EB6B54783839BAA9943D0 /* libPods-Chat quickblox.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84365600206EA05400019AE7 /* Image+LabelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Image+LabelViewController.h"; sourceTree = "<group>"; };
+		84365601206EA05400019AE7 /* Image+LabelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Image+LabelViewController.m"; sourceTree = "<group>"; };
+		844FB6382070F0EB00C6346E /* MyCalculationHeightCellViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyCalculationHeightCellViewController.h; sourceTree = "<group>"; };
+		844FB6392070F0EB00C6346E /* MyCalculationHeightCellViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyCalculationHeightCellViewController.m; sourceTree = "<group>"; };
+		84631D49206D830400E6107A /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		84631D4A206D830400E6107A /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		84631D4C206D86AB00E6107A /* LabelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LabelViewController.h; sourceTree = "<group>"; };
+		84631D4D206D86AB00E6107A /* LabelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LabelViewController.m; sourceTree = "<group>"; };
 		84FBBFC6206C083100CF416C /* Chat quickblox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Chat quickblox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FBBFC9206C083100CF416C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		84FBBFCA206C083100CF416C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		84FBBFCC206C083100CF416C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		84FBBFCD206C083100CF416C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		84FBBFD0206C083100CF416C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84FBBFD2206C083100CF416C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84FBBFD5206C083100CF416C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84FBBFD7206C083100CF416C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84FBBFD8206C083100CF416C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AC4EB6B54783839BAA9943D0 /* libPods-Chat quickblox.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Chat quickblox.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB58CA275C6CD8D2914B9433 /* Pods-Chat quickblox.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chat quickblox.release.xcconfig"; path = "Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox.release.xcconfig"; sourceTree = "<group>"; };
+		CDE7E6A0ADBEC65752865256 /* Pods-Chat quickblox.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chat quickblox.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,17 +46,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EFB795D3D4541A82247CADA1 /* libPods-Chat quickblox.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1AA969D5D70372FA6E2979BC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AC4EB6B54783839BAA9943D0 /* libPods-Chat quickblox.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		331920E0FC2B18D95E55A9A7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CDE7E6A0ADBEC65752865256 /* Pods-Chat quickblox.debug.xcconfig */,
+				BB58CA275C6CD8D2914B9433 /* Pods-Chat quickblox.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		84FBBFBD206C083100CF416C = {
 			isa = PBXGroup;
 			children = (
 				84FBBFC8206C083100CF416C /* Chat quickblox */,
 				84FBBFC7206C083100CF416C /* Products */,
+				331920E0FC2B18D95E55A9A7 /* Pods */,
+				1AA969D5D70372FA6E2979BC /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,8 +93,14 @@
 			children = (
 				84FBBFC9206C083100CF416C /* AppDelegate.h */,
 				84FBBFCA206C083100CF416C /* AppDelegate.m */,
-				84FBBFCC206C083100CF416C /* ViewController.h */,
-				84FBBFCD206C083100CF416C /* ViewController.m */,
+				84631D49206D830400E6107A /* TableViewCell.h */,
+				84631D4A206D830400E6107A /* TableViewCell.m */,
+				84631D4C206D86AB00E6107A /* LabelViewController.h */,
+				84631D4D206D86AB00E6107A /* LabelViewController.m */,
+				84365600206EA05400019AE7 /* Image+LabelViewController.h */,
+				84365601206EA05400019AE7 /* Image+LabelViewController.m */,
+				844FB6382070F0EB00C6346E /* MyCalculationHeightCellViewController.h */,
+				844FB6392070F0EB00C6346E /* MyCalculationHeightCellViewController.m */,
 				84FBBFCF206C083100CF416C /* Main.storyboard */,
 				84FBBFD2206C083100CF416C /* Assets.xcassets */,
 				84FBBFD4206C083100CF416C /* LaunchScreen.storyboard */,
@@ -78,9 +117,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84FBBFDC206C083100CF416C /* Build configuration list for PBXNativeTarget "Chat quickblox" */;
 			buildPhases = (
+				FC7209F6DBD6B313C2FD487E /* [CP] Check Pods Manifest.lock */,
 				84FBBFC2206C083100CF416C /* Sources */,
 				84FBBFC3206C083100CF416C /* Frameworks */,
 				84FBBFC4206C083100CF416C /* Resources */,
+				671856EDC62F8B056B9F3009 /* [CP] Embed Pods Frameworks */,
+				8D7A20C0AF9EF4F28E169882 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -137,14 +179,79 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		671856EDC62F8B056B9F3009 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox-frameworks.sh",
+				"${PODS_ROOT}/QuickBlox/Quickblox.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quickblox.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8D7A20C0AF9EF4F28E169882 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox-resources.sh",
+				"${PODS_ROOT}/QMChatViewController/QMChatViewController/Icons/Media.xcassets",
+				$PODS_CONFIGURATION_BUILD_DIR/QMChatViewController/QMChatViewController.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/QMServices/QMChatCacheModel.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/QMServices/QMContactListCacheModel.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/QMServices/QMUsersCacheModel.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/QMServices/QMOpenGraphCacheModel.bundle,
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Chat quickblox/Pods-Chat quickblox-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FC7209F6DBD6B313C2FD487E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Chat quickblox-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		84FBBFC2206C083100CF416C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84FBBFCE206C083100CF416C /* ViewController.m in Sources */,
+				84631D4B206D830400E6107A /* TableViewCell.m in Sources */,
+				84365602206EA05500019AE7 /* Image+LabelViewController.m in Sources */,
 				84FBBFD9206C083100CF416C /* main.m in Sources */,
 				84FBBFCB206C083100CF416C /* AppDelegate.m in Sources */,
+				84631D4E206D86AB00E6107A /* LabelViewController.m in Sources */,
+				844FB63A2070F0EB00C6346E /* MyCalculationHeightCellViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,28 +383,76 @@
 		};
 		84FBBFDD206C083100CF416C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CDE7E6A0ADBEC65752865256 /* Pods-Chat quickblox.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5D7GRV784H;
+				DEVELOPMENT_TEAM = WPLYGF2XGB;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PODS_ROOT)/QuickBlox/",
+					"\"${PODS_ROOT}/QuickBlox\"",
+					"\"$(SRCROOT)/Vendor/QMServices/Frameworks\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					/usr/include/libxml2,
+					"$(inherited)",
+					"\"${PODS_ROOT}/Headers/Public\"",
+					"\"${PODS_ROOT}/Headers/Public/Bolts\"",
+					"\"${PODS_ROOT}/Headers/Public/FFCircularProgressView\"",
+					"\"${PODS_ROOT}/Headers/Public/QMChatViewController\"",
+					"\"${PODS_ROOT}/Headers/Public/QMServices\"",
+					"\"${PODS_ROOT}/Headers/Public/QuickBlox\"",
+					"\"${PODS_ROOT}/Headers/Public/SDWebImage\"",
+					"\"${PODS_ROOT}/Headers/Public/TTTAttributedLabel\"",
+					"\"$(SRCROOT)/Vendor/QMServices\"/**",
+				);
 				INFOPLIST_FILE = "Chat quickblox/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "project.Chat-quickblox";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		84FBBFDE206C083100CF416C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BB58CA275C6CD8D2914B9433 /* Pods-Chat quickblox.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5D7GRV784H;
+				DEVELOPMENT_TEAM = WPLYGF2XGB;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PODS_ROOT)/QuickBlox/",
+					"\"${PODS_ROOT}/QuickBlox\"",
+					"\"$(SRCROOT)/Vendor/QMServices/Frameworks\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					/usr/include/libxml2,
+					"$(inherited)",
+					"\"${PODS_ROOT}/Headers/Public\"",
+					"\"${PODS_ROOT}/Headers/Public/Bolts\"",
+					"\"${PODS_ROOT}/Headers/Public/FFCircularProgressView\"",
+					"\"${PODS_ROOT}/Headers/Public/QMChatViewController\"",
+					"\"${PODS_ROOT}/Headers/Public/QMServices\"",
+					"\"${PODS_ROOT}/Headers/Public/QuickBlox\"",
+					"\"${PODS_ROOT}/Headers/Public/SDWebImage\"",
+					"\"${PODS_ROOT}/Headers/Public/TTTAttributedLabel\"",
+					"\"$(SRCROOT)/Vendor/QMServices\"/**",
+				);
 				INFOPLIST_FILE = "Chat quickblox/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "project.Chat-quickblox";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
